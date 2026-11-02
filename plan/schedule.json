@@ -3,7 +3,7 @@
   "timezone": "America/Los_Angeles",
   "ramp": [
     { "from": "2026-11-02", "posts_per_day": 2 },
-    { "from": "2026-11-09", "posts_per_day": 5 }
+    { "from": "2026-11-09", "posts_per_day": 3 }
   ],
   "times_by_count": {
     "1": ["18:30"],
