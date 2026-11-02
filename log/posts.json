@@ -10,5 +10,29 @@
   "privacy": "SELF_ONLY",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=9065612207898640885",
   "status": "published (private test), TikTok id 7703383347523340301"
+ },
+ {
+  "date": "2026-11-02",
+  "time": "12:00",
+  "folder": "media/2026-11-02/01-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for the person who's always cold",
+  "title": "gifts for the person who's always cold",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-2312974668969917625",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-02",
+  "time": "19:00",
+  "folder": "media/2026-11-02/02-date-ideas",
+  "series": "date-ideas",
+  "angle": "fall and winter date ideas",
+  "title": "cozy date ideas for cold nights",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=3265376438401450695",
+  "status": "scheduled"
  }
 ]
