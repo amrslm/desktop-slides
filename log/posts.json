@@ -1,1 +1,14 @@
-[]
+[
+ {
+  "date": "2026-11-01",
+  "time": "17:50",
+  "folder": "media/2026-11-01/00-test-dinners",
+  "series": "dinners",
+  "angle": "dinners that taste like takeout",
+  "title": "5 dinners that taste like takeout",
+  "slides": 7,
+  "privacy": "SELF_ONLY",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=9065612207898640885",
+  "status": "scheduled (private test)"
+ }
+]

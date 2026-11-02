@@ -43,7 +43,7 @@ For each post:
 
 ## 5. Publish the files
 
-1. Run `git add media && git commit -m "posts for $TODAY" && git push`.
+1. Run `git add media && git commit -m "posts for $TODAY" && git push`. A "push negotiation failed; proceeding anyway" warning is harmless; check with `git ls-remote origin` that `main` moved.
 2. Check every link returns 200: `curl -s -o /dev/null -w "%{http_code}" <url>`. If you get 404s, wait 30 seconds and retry. Stop after 3 tries.
 
 ## 6. Schedule
@@ -75,7 +75,7 @@ For each post, call `createScheduledPost`:
 }
 ```
 
-`commercialContentOwnBrand` is true because the last slide promotes the owner's own app, and TikTok requires that to be disclosed.
+`commercialContentOwnBrand` is true because the last slide promotes the owner's own app, and TikTok requires that to be disclosed. TikTok only allows it on public or friends posts: if privacy is `SELF_ONLY` or `FOLLOWER_OF_CREATOR`, set it to false.
 
 If a call fails, read the error, fix the input and retry once. If it still fails, skip that post and note it.
 
@@ -83,7 +83,7 @@ If a call fails, read the error, fix the input and retry once. If it still fails
 
 1. Append one entry per post to `log/posts.json`: `{date, time, folder, series, angle, title, slides, privacy, plannerUrl, status}`.
 2. Append each photo used to `photos/used.json`: `{id, date}`.
-3. Delete `media/` folders older than 21 days (`git rm -r`). By then the posts are long published.
+3. Delete `media/` folders older than 7 days (`git rm -r`). Metricool copies the images when a post is scheduled, so the repo copies are only needed until then.
 4. Run `git add -A && git commit -m "log $TODAY" && git push`.
 
 ## 8. Summary
