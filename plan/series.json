@@ -1,0 +1,65 @@
+{
+  "_about": "Plan: what to post. Each day's posts are picked from these series by weight, skipping hooks already in log/posts.json. Weights are relative. The weekly Score step nudges weights toward what gets saves and shares.",
+  "series": [
+    {
+      "id": "dinners",
+      "weight": 3,
+      "save_line": "i keep every recipe i save in Desktop: Save for Later",
+      "angles": [
+        "dinners that taste like takeout",
+        "30-minute dinners",
+        "one-pan dinners",
+        "cheap dinners that don't feel cheap",
+        "high-protein dinners",
+        "cozy soups for cold nights",
+        "lunches to meal prep on sunday",
+        "dinners for when you're too tired to cook"
+      ]
+    },
+    {
+      "id": "date-ideas",
+      "weight": 3,
+      "save_line": "i keep date ideas in Desktop: Save for Later so we actually do them",
+      "angles": [
+        "date ideas that aren't dinner and a movie",
+        "cheap date ideas",
+        "at-home date nights",
+        "rainy day dates",
+        "fall and winter date ideas",
+        "first date ideas that aren't awkward",
+        "anniversary ideas that feel personal"
+      ]
+    },
+    {
+      "id": "gift-guides",
+      "weight": 4,
+      "save_line": "i keep my gift list in Desktop: Save for Later",
+      "angles": [
+        "gifts for him that aren't socks",
+        "gifts for her she'll actually use",
+        "gifts for mom",
+        "gifts for dad that aren't a tie",
+        "gifts for the friend who has everything",
+        "stocking stuffers that aren't junk",
+        "gifts for the person who's always cold",
+        "host gifts to bring to a holiday party",
+        "gifts for coffee people",
+        "gifts for people who love to cook"
+      ]
+    },
+    {
+      "id": "apartment-finds",
+      "weight": 2,
+      "save_line": "i keep my apartment wishlist in Desktop: Save for Later",
+      "angles": [
+        "renter-friendly upgrades",
+        "small apartment ideas that make it feel bigger",
+        "things that make your place feel cozy",
+        "kitchen things you'll use every day",
+        "desk setup upgrades",
+        "bathroom upgrades under $30",
+        "first apartment essentials people forget"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "desktop-slides-design",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@fontsource/tiktok-sans": "5.3.0"
+  }
+}
