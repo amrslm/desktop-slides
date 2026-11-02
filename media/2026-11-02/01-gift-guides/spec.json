@@ -1,0 +1,62 @@
+{
+ "series": "gift-guides",
+ "angle": "gifts for the person who's always cold",
+ "title": "gifts for the person who's always cold",
+ "caption": "the hot water bottle one never misses. save this for later #giftideas #christmasgifts #giftguide #cozygifts",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "gift guide",
+   "text": "gifts for the person who's always cold",
+   "photo": "https://images.unsplash.com/photo-1481708426686-bad08e28e1c2?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "HZuJfZlXVQY"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "an oversized knit throw",
+   "detail": "big enough to wrap up in on the couch. heavier knits hold heat best.",
+   "photo": "https://images.unsplash.com/photo-1731404247714-f19f610b32d4?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "5m9aWCedmCY"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "thick wool socks",
+   "detail": "wool stays warm even when feet get damp. get a pair they'll wear to bed.",
+   "photo": "https://images.unsplash.com/photo-1647549897410-3583914a7961?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "yAzHPISQ1lw"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a hot water bottle",
+   "detail": "pick one with a knit cover. fill it before bed and it's warm for hours.",
+   "photo": "https://images.unsplash.com/photo-1773747608435-0fa80d11a32f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "4XlKcKpmjwU"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "an insulated thermos",
+   "detail": "keeps coffee or tea hot for hours on walks, commutes and game days.",
+   "photo": "https://images.unsplash.com/photo-1788757295254-2818f59e6ee6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "F-M8pNS3Cnk"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a warming tea sampler",
+   "detail": "chai, ginger and rooibos blends for cold nights. pairs with a big mug.",
+   "photo": "https://images.unsplash.com/photo-1573784540576-21ddeff9479b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "jHMJrp33sUg"
+  },
+  {
+   "kind": "end",
+   "text": "send this to them, then save it",
+   "sub": "i keep my gift list in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1639562954924-1928f7cda17c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "uBsEvSW3xhc"
+  }
+ ]
+}
