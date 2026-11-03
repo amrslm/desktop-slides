@@ -34,5 +34,29 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=3265376438401450695",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-03",
+  "time": "12:00",
+  "folder": "media/2026-11-03/01-dinners",
+  "series": "dinners",
+  "angle": "one-pan dinners",
+  "title": "one-pan dinners for when you hate dishes",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-6863966131739276313",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-03",
+  "time": "19:00",
+  "folder": "media/2026-11-03/02-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for coffee people",
+  "title": "gifts for coffee people they'll actually use",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-1852024927621265031",
+  "status": "scheduled"
  }
 ]
