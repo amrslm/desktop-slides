@@ -1,0 +1,62 @@
+{
+ "series": "dinners",
+ "angle": "one-pan dinners",
+ "title": "one-pan dinners for when you hate dishes",
+ "caption": "the shakshuka one is the move on a weeknight. save this for later #dinnerideas #easyrecipes #onepanmeals #weeknightdinner",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "one pan, minimal dishes",
+   "text": "one-pan dinners for when you hate dishes",
+   "photo": "https://images.unsplash.com/photo-1606791510628-fc86850630bf?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "dv66FFh35kc"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "skillet chicken fajitas",
+   "detail": "sliced chicken, peppers, onion, fajita spice. one skillet, 20 minutes.",
+   "photo": "https://images.unsplash.com/photo-1634141614525-23ecd28f531b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "EdJA7qaLUIU"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "lemon salmon and asparagus",
+   "detail": "salmon, asparagus, lemon, garlic, olive oil. 400°F for 12–15 minutes.",
+   "photo": "https://images.unsplash.com/photo-1758384077234-f91a311dcc12?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "WWFPlYf1gLY"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "sausage and crispy potatoes",
+   "detail": "smoked sausage, halved baby potatoes, paprika. 425°F for 30 minutes.",
+   "photo": "https://images.unsplash.com/photo-1698843813577-db28459556b0?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "H-D-0UOgzMc"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "one-pan chicken and rice",
+   "detail": "brown chicken thighs, add rice, broth and garlic. cover and simmer 25 min.",
+   "photo": "https://images.unsplash.com/photo-1577110633798-8d4439305952?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "O8OZsmNWSsg"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "shakshuka",
+   "detail": "eggs poached in spiced tomato and pepper sauce. 25 minutes, with bread.",
+   "photo": "https://images.unsplash.com/photo-1520218576172-c1a2df3fa5fc?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "rzPVSqQjjqs"
+  },
+  {
+   "kind": "end",
+   "text": "save this for your next grocery run",
+   "sub": "i keep every recipe i save in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1774415108927-ab76336ca9c8?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "JF18WwAXvP4"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "series": "gift-guides",
+ "angle": "gifts for coffee people",
+ "title": "gifts for coffee people they'll actually use",
+ "caption": "the grinder is the one they won't buy themselves. save this for later #giftideas #christmasgifts #giftguide #coffeelover",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "gift guide",
+   "text": "gifts for coffee people they'll actually use",
+   "photo": "https://images.unsplash.com/photo-1771736385651-c071580a9d78?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "MK60jE_6zXU"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "a pour-over set",
+   "detail": "a dripper and a pack of filters. turns morning coffee into a slow ritual.",
+   "photo": "https://images.unsplash.com/photo-1758221052634-33f352d1318b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "a0v-gPTSopg"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a manual burr grinder",
+   "detail": "fresh-ground beans taste noticeably better. compact enough for a counter.",
+   "photo": "https://images.unsplash.com/photo-1573066516618-70e8e69506e7?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "8vDVlL1gmTE"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a bag of fresh whole beans",
+   "detail": "pick a local roaster and check the roast date. go for 1–3 weeks old.",
+   "photo": "https://images.unsplash.com/photo-1675306408031-a9aad9f23308?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "4KqHNQ3sJ6g"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "a handmade ceramic mug",
+   "detail": "something they'll reach for every morning. 12 oz or bigger is ideal.",
+   "photo": "https://images.unsplash.com/photo-1536936812504-0e77dc3f0b40?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "CipURjPCXOo"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a stovetop moka pot",
+   "detail": "strong, espresso-style coffee on any stove. no machine or pods needed.",
+   "photo": "https://images.unsplash.com/photo-1781574120734-c3fceee09415?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "xVvqC0pbvuM"
+  },
+  {
+   "kind": "end",
+   "text": "send this to them, then save it",
+   "sub": "i keep my gift list in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1575383359917-e585c563a8e3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Ar9xZN7yF8Q"
+  }
+ ]
+}
