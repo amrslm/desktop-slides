@@ -1,0 +1,62 @@
+{
+ "series": "gift-guides",
+ "angle": "gifts for the friend who has everything",
+ "title": "gifts for the friend who has everything",
+ "caption": "the cookie basket is the one they'll text you about. save this for later #giftideas #christmasgifts #giftguide #holidaygifts",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "gift guide",
+   "text": "gifts for the friend who has everything",
+   "photo": "https://images.unsplash.com/photo-1545844568-98bb15133ec0?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "rR59irzeUl0"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "a really good olive oil",
+   "detail": "the fancy finishing kind they'd never buy for themselves. great with bread.",
+   "photo": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "uOBApnN_K7w"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a pottery class for two",
+   "detail": "an experience instead of more stuff, and a night out together.",
+   "photo": "https://images.unsplash.com/photo-1589051088132-06f36a22012a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "G4IB-r6nsJI"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a framed photo of you two",
+   "detail": "print an old favorite and frame it. costs little, gets kept forever.",
+   "photo": "https://images.unsplash.com/photo-1641644785936-fc6e54131f14?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "nVw8006eWsw"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "a plant in a nice pot",
+   "detail": "a pothos or snake plant. hard to kill and it fills an empty corner.",
+   "photo": "https://images.unsplash.com/photo-1694680319722-02b0f4ebd5cf?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "r1DT7rvE5v4"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a basket of local cookies",
+   "detail": "fill it with cookies and treats from your favorite bakery in town.",
+   "photo": "https://images.unsplash.com/photo-1788869519835-c59e92a280a1?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "8aUBybgcfF4"
+  },
+  {
+   "kind": "end",
+   "text": "send this to them, then save it",
+   "sub": "i keep my gift list in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1764607360436-2cbef672cc2c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "rV_uc5doQz0"
+  }
+ ]
+}
