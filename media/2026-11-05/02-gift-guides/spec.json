@@ -1,0 +1,62 @@
+{
+ "series": "gift-guides",
+ "angle": "gifts for people who love to cook",
+ "title": "gifts for the home cook (under $50)",
+ "caption": "the cast iron will outlive all of us. save this for later #giftideas #giftguide #christmasgifts #homecook #holidaygifts",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "gift guide",
+   "text": "gifts for the home cook (under $50)",
+   "photo": "https://images.unsplash.com/photo-1579150877125-53b49ce88315?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "SVA7TyHxojY"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "a cast iron skillet",
+   "detail": "a 10-inch one is about $25 and lasts basically forever.",
+   "photo": "https://images.unsplash.com/photo-1603038124597-2c5c207edf47?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "0q4CX__U5cE"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a really sharp chef's knife",
+   "detail": "an 8-inch one is the tool they'll reach for every single day.",
+   "photo": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "llcX9pTjhXM"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a big wooden cutting board",
+   "detail": "heavy, with a juice groove. doubles as a cheese board for guests.",
+   "photo": "https://images.unsplash.com/photo-1792679978951-d8b4390127ce?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Oj2znzVxqTY"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "windowsill herb pots",
+   "detail": "basil, thyme and rosemary on a sunny sill. fresh herbs all winter.",
+   "photo": "https://images.unsplash.com/photo-1606246551553-344d599d262a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Q-5tt6mqkbQ"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "glass pantry jars",
+   "detail": "airtight jars for flour, rice and pasta. the pantry finally looks calm.",
+   "photo": "https://images.unsplash.com/photo-1565620731358-e8c038abc8d1?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Exf1N6_UTZM"
+  },
+  {
+   "kind": "end",
+   "text": "send this to them, then save it",
+   "sub": "i keep my gift list in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1639562954924-975ca13f454a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "QFHN8XN923I"
+  }
+ ]
+}
