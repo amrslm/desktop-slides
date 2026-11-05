@@ -82,5 +82,29 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=1286807178682647225",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-05",
+  "time": "12:00",
+  "folder": "media/2026-11-05/01-dinners",
+  "series": "dinners",
+  "angle": "cozy soups for cold nights",
+  "title": "5 cozy soups for cold nights",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-3372063360009878902",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-05",
+  "time": "19:00",
+  "folder": "media/2026-11-05/02-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for people who love to cook",
+  "title": "gifts for the home cook (under $50)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=4420816047867970830",
+  "status": "scheduled"
  }
 ]
