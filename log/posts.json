@@ -106,5 +106,29 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=4420816047867970830",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-06",
+  "time": "12:00",
+  "folder": "media/2026-11-06/01-gift-guides",
+  "series": "gift-guides",
+  "angle": "stocking stuffers that aren't junk",
+  "title": "stocking stuffers that aren't junk (under $15)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-4342882514970260814",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-06",
+  "time": "19:00",
+  "folder": "media/2026-11-06/02-apartment-finds",
+  "series": "apartment-finds",
+  "angle": "renter-friendly upgrades",
+  "title": "renter-friendly upgrades (no drilling)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=8487668047775156233",
+  "status": "scheduled"
  }
 ]
