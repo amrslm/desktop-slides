@@ -1,0 +1,62 @@
+{
+ "series": "apartment-finds",
+ "angle": "renter-friendly upgrades",
+ "title": "renter-friendly upgrades (no drilling)",
+ "caption": "the plug-in sconce changed my whole bedroom. save this for later #apartmentdecor #renterfriendly #apartmentliving #homedecor",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "keep your deposit",
+   "text": "renter-friendly upgrades (no drilling)",
+   "photo": "https://images.unsplash.com/photo-1663756915304-40b7eda63e41?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "8tOPzx3k62g"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "plug-in wall sconces",
+   "detail": "they plug into an outlet, no wiring. warm light by the bed instantly.",
+   "photo": "https://images.unsplash.com/photo-1785529907889-2d75e49414b2?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "RzkCEOuRgH8"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "peel-and-stick backsplash",
+   "detail": "covers ugly kitchen tile and peels off clean when you move out.",
+   "photo": "https://images.unsplash.com/photo-1780253460298-8a8b0a4d0600?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "NWbb3V5gyF8"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "swap the cabinet handles",
+   "detail": "keep the old ones in a bag and put them back before you leave.",
+   "photo": "https://images.unsplash.com/photo-1789381565624-cf9c65b7c2ba?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "a8OuPQdyvIs"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "a big leaning floor mirror",
+   "detail": "no hanging needed. bounces light around so the room feels bigger.",
+   "photo": "https://images.unsplash.com/photo-1703407999298-bf1d6814c796?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "99XLWyMq_ns"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "one big floor plant",
+   "detail": "a rubber plant or snake plant fills a corner and is hard to kill.",
+   "photo": "https://images.unsplash.com/photo-1649445005761-11b8ad385113?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "yTKCYey385Q"
+  },
+  {
+   "kind": "end",
+   "text": "save this for your next move-in day",
+   "sub": "i keep my apartment wishlist in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1658893136904-63914a6b372c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "nHl_v8RrHfk"
+  }
+ ]
+}
