@@ -130,5 +130,29 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=8487668047775156233",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-07",
+  "time": "12:00",
+  "folder": "media/2026-11-07/01-dinners",
+  "series": "dinners",
+  "angle": "high-protein dinners",
+  "title": "high-protein dinners that aren't boring",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-2504971395287070782",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-07",
+  "time": "19:00",
+  "folder": "media/2026-11-07/02-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for him that aren't socks",
+  "title": "gifts for him that aren't socks (under $50)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-5519401534979882862",
+  "status": "scheduled"
  }
 ]
