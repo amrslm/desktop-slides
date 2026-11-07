@@ -1,0 +1,62 @@
+{
+ "series": "dinners",
+ "angle": "high-protein dinners",
+ "title": "high-protein dinners that aren't boring",
+ "caption": "the garlic shrimp one takes 10 minutes. save this for later #highprotein #dinnerideas #easyrecipes #mealprep",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "weeknight dinners",
+   "text": "high-protein dinners that aren't boring",
+   "photo": "https://images.unsplash.com/photo-1594041680534-e8c8cdebd659?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Et1rVF1YJe8"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "teriyaki chicken bowls",
+   "detail": "chicken thighs, rice, broccoli, a quick teriyaki glaze. about 25 minutes.",
+   "photo": "https://images.unsplash.com/photo-1791386804677-815379da3e2e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "vtTqQJ0hfZc"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "beef and broccoli",
+   "detail": "flank steak, broccoli, soy, garlic, ginger. over rice in 20 minutes.",
+   "photo": "https://images.unsplash.com/photo-1783375175952-705a0600e05c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "BA2UZ6w8JfY"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "garlic butter shrimp",
+   "detail": "shrimp, garlic, butter, lemon, cilantro. 10 minutes in one pan.",
+   "photo": "https://images.unsplash.com/photo-1599655345131-6eb73b81d8d6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "4LoGKVmUJsI"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "turkey chili",
+   "detail": "ground turkey, two kinds of beans, tomatoes, chili powder. 35 minutes.",
+   "photo": "https://images.unsplash.com/photo-1638329389022-daef2efb71b3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "SlqbDPH6Bic"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "salmon poke bowls",
+   "detail": "sushi-grade salmon, rice, edamame, cucumber, soy. no stove, 15 minutes.",
+   "photo": "https://images.unsplash.com/photo-1780805663576-48cdd496138d?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "H-DKnqVDOUk"
+  },
+  {
+   "kind": "end",
+   "text": "save this before your next grocery run",
+   "sub": "i keep every recipe i save in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1760458365416-0a60baf908bc?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "V-HS4wGA7bg"
+  }
+ ]
+}
