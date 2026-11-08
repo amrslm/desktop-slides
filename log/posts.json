@@ -154,5 +154,29 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-5519401534979882862",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-08",
+  "time": "12:00",
+  "folder": "media/2026-11-08/01-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for her she'll actually use",
+  "title": "gifts for her she'll actually use (under $40)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-4548354121701179278",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-08",
+  "time": "19:00",
+  "folder": "media/2026-11-08/02-date-ideas",
+  "series": "date-ideas",
+  "angle": "cheap date ideas",
+  "title": "cheap date ideas (under $20 for two)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-4406487407952966901",
+  "status": "scheduled"
  }
 ]
