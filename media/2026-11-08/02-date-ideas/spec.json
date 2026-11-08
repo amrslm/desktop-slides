@@ -1,0 +1,62 @@
+{
+ "series": "date-ideas",
+ "angle": "cheap date ideas",
+ "title": "cheap date ideas (under $20 for two)",
+ "caption": "the thrift swap is chaotic in the best way. save this for later #dateideas #datenight #cheapdates #couplegoals",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "for this weekend",
+   "text": "cheap date ideas (under $20 for two)",
+   "photo": "https://images.unsplash.com/photo-1783816297765-f0066b1230fb?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "OVwK8NnzFyE"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "a sunset picnic",
+   "detail": "a blanket, a thermos of cocoa and grocery-store snacks. about $15.",
+   "photo": "https://images.unsplash.com/photo-1689180822765-512ffed3542b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "8CMg8meLd9k"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a thrift store outfit swap",
+   "detail": "$10 each to pick an outfit for the other, then wear it out.",
+   "photo": "https://images.unsplash.com/photo-1775946477600-3616edfc6c26?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "m0bnY2nFo0A"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a free museum day",
+   "detail": "lots of museums have free or pay-what-you-can days. check yours.",
+   "photo": "https://images.unsplash.com/photo-1553644446-9f8f2762ea42?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "-GO7TP8Umgs"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "dumplings from scratch",
+   "detail": "wrappers, ground pork, cabbage, scallions. about $15 and an hour.",
+   "photo": "https://images.unsplash.com/photo-1791475607104-5b0752d293f3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "j_5T-6xFyxU"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a stargazing drive",
+   "detail": "drive past the city lights with blankets and a star map app. just gas.",
+   "photo": "https://images.unsplash.com/photo-1787522428042-13a7c8256475?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "yDCadSTZAmE"
+  },
+  {
+   "kind": "end",
+   "text": "save this for your next date night",
+   "sub": "i keep date ideas in Desktop: Save for Later so we actually do them",
+   "photo": "https://images.unsplash.com/photo-1542891433-684dbf58d399?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "J64p3tfXQs0"
+  }
+ ]
+}
