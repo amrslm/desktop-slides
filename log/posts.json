@@ -178,5 +178,41 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-4406487407952966901",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-09",
+  "time": "08:30",
+  "folder": "media/2026-11-09/01-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for dad that aren't a tie",
+  "title": "gifts for dad that aren't a tie (under $50)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=8359254878913381872",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-09",
+  "time": "13:00",
+  "folder": "media/2026-11-09/02-dinners",
+  "series": "dinners",
+  "angle": "dinners for when you're too tired to cook",
+  "title": "dinners for when you're too tired to cook",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-6509346892264552500",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-09",
+  "time": "19:00",
+  "folder": "media/2026-11-09/03-apartment-finds",
+  "series": "apartment-finds",
+  "angle": "things that make your place feel cozy",
+  "title": "cozy home upgrades (all under $40)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-7901698260703359930",
+  "status": "scheduled"
  }
 ]
