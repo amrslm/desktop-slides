@@ -1,0 +1,62 @@
+{
+ "series": "dinners",
+ "angle": "dinners for when you're too tired to cook",
+ "title": "dinners for when you're too tired to cook",
+ "caption": "the lazy shakshuka feels fancy and takes 15 minutes. save this for later #dinnerideas #easyrecipes #lazydinner #weeknightdinner",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "15 minutes or less",
+   "text": "dinners for when you're too tired to cook",
+   "photo": "https://images.unsplash.com/photo-1633129170606-00849be37dd5?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "HH-gxIODz-8"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "fried rice with frozen veg",
+   "detail": "day-old rice, frozen peas and carrots, 2 eggs, soy sauce. 15 minutes.",
+   "photo": "https://images.unsplash.com/photo-1788603907308-58eb4325dce1?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "5Fii0b2wc3I"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "black bean quesadillas",
+   "detail": "tortillas, shredded cheese, canned black beans, a spoon of salsa. 10 min.",
+   "photo": "https://images.unsplash.com/photo-1673990349292-ed2dfa7988c9?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "_BW-YmENFcM"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "pesto pasta with spinach",
+   "detail": "any short pasta, jarred pesto, a handful of spinach, parmesan. 15 min.",
+   "photo": "https://images.unsplash.com/photo-1766706519060-d44bd9dc50f7?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "j6C7XUec100"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "lazy shakshuka",
+   "detail": "eggs simmered in jarred marinara, chili flakes and feta. one pan, 15 min.",
+   "photo": "https://images.unsplash.com/photo-1498602753442-dfa7a49fc9c4?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "gWkvURhoMlA"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "rotisserie chicken rice bowls",
+   "detail": "store-bought chicken, microwave rice, cucumber, any sauce. 10 minutes.",
+   "photo": "https://images.unsplash.com/photo-1791386804685-01b06b13a722?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "0bXbKLWOczs"
+  },
+  {
+   "kind": "end",
+   "text": "save this for the next night you're too tired to think",
+   "sub": "i keep every recipe i save in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1624340209388-1ab1756d8f5d?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Ca0QVPWm6WY"
+  }
+ ]
+}

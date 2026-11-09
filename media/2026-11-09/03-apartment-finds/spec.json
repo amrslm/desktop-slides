@@ -1,0 +1,62 @@
+{
+ "series": "apartment-finds",
+ "angle": "things that make your place feel cozy",
+ "title": "cozy home upgrades (all under $40)",
+ "caption": "turn the big light off and the whole place changes. save this for later #apartmentdecor #cozyhome #homedecor #renterfriendly",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "for winter nights",
+   "text": "cozy home upgrades (all under $40)",
+   "photo": "https://images.unsplash.com/photo-1778766017582-44ba4512f532?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "tedtXRcL1AI"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "lamps, not the overhead light",
+   "detail": "2–3 small lamps with warm 2700k bulbs. lamps run $20–40, bulbs about $3.",
+   "photo": "https://images.unsplash.com/photo-1775788990261-7b577b7757d3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "N0m8evXqvTs"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a pothos on the shelf",
+   "detail": "nearly impossible to kill and it trails as it grows. small pots run $10–20.",
+   "photo": "https://images.unsplash.com/photo-1757877598243-4fc57b5c2fae?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "O2GkcIKlg4c"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "warm string lights",
+   "detail": "plug-in fairy lights along a shelf, mirror or headboard. about $10–15.",
+   "photo": "https://images.unsplash.com/photo-1693217525456-a6bd9757e0c8?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "cYHtcwFgFAE"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "curtains hung high and wide",
+   "detail": "mount the rod near the ceiling so the room feels taller. $20–40 a pair.",
+   "photo": "https://images.unsplash.com/photo-1530914507926-36d0f98a9f1f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "nx1Qs_Q04dY"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "new pillow covers",
+   "detail": "swap the covers, keep the inserts. rust, cream or olive run $10–20 each.",
+   "photo": "https://images.unsplash.com/photo-1538577880403-f9998e75dd06?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "MG4G0congO0"
+  },
+  {
+   "kind": "end",
+   "text": "save this for your next weekend reset",
+   "sub": "i keep my apartment wishlist in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1783110688413-77aadea9e511?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "5T_XETRABHs"
+  }
+ ]
+}
