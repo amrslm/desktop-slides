@@ -1,0 +1,62 @@
+{
+ "series": "dinners",
+ "angle": "cheap dinners that don't feel cheap",
+ "title": "cheap dinners that don't feel cheap",
+ "caption": "the chickpea curry tastes like takeout. save this for later #dinnerideas #budgetmeals #cheapeats #easyrecipes",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "budget weeknights",
+   "text": "cheap dinners that don't feel cheap",
+   "photo": "https://images.unsplash.com/photo-1481931098730-318b6f776db0?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "-F_5g8EEHYE"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "creamy tomato pasta",
+   "detail": "canned tomatoes, garlic, a splash of cream and parmesan. 20 minutes.",
+   "photo": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "0y6eMd8vevA"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "black bean tacos",
+   "detail": "canned black beans with cumin, corn tortillas, slaw and lime. 15 min.",
+   "photo": "https://images.unsplash.com/photo-1574782091246-c65ed4510300?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "hs2076lrvKQ"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "chickpea curry",
+   "detail": "canned chickpeas, coconut milk, onion, curry powder. over rice, 25 min.",
+   "photo": "https://images.unsplash.com/photo-1788602564560-9bcbf0f9acb6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Idh9dnG2v8w"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "sausage and potato tray bake",
+   "detail": "smoked sausage, baby potatoes, peppers, olive oil. one tray, 35 min.",
+   "photo": "https://images.unsplash.com/photo-1610631087248-08f2eac7a93d?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "01S4-Jcns-E"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "upgraded instant ramen",
+   "detail": "instant noodles, a jammy egg, scallions and chili oil. 12 minutes.",
+   "photo": "https://images.unsplash.com/photo-1612927601601-6638404737ce?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "RwAXb8Hv_sU"
+  },
+  {
+   "kind": "end",
+   "text": "save this for the end of the month",
+   "sub": "i keep every recipe i save in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1613929247034-983090f7699b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "c7N0M_64XqE"
+  }
+ ]
+}

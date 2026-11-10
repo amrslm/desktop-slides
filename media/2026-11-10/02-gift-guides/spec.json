@@ -1,0 +1,62 @@
+{
+ "series": "gift-guides",
+ "angle": "gifts for mom",
+ "title": "gifts for mom that aren't another candle",
+ "caption": "the framed photo one gets her every time. save this for later #giftideas #giftsformom #christmasgifts #giftguide",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "gift guide",
+   "text": "gifts for mom that aren't another candle",
+   "photo": "https://images.unsplash.com/photo-1646182504823-a02b768e28b5?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "M27fkn-HYzE"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "a framed old photo",
+   "detail": "print a photo she loves from years ago and frame it. under $30 total.",
+   "photo": "https://images.unsplash.com/photo-1583766432455-7096057dbee3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "7wrjKfxKFks"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a loose-leaf tea sampler",
+   "detail": "a few flavors she wouldn't buy herself. pairs well with a nice mug.",
+   "photo": "https://images.unsplash.com/photo-1567922045116-2a00fae2ed03?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Qaor6nxikUM"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a cookbook she'd pick herself",
+   "detail": "pick a cuisine she already loves to cook. she'll fill it with notes.",
+   "photo": "https://images.unsplash.com/photo-1720694025145-6f05b62fa334?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "qCstHaOSrqU"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "a really cozy robe",
+   "detail": "waffle or fleece, in her size. the thing she'll wear every morning.",
+   "photo": "https://images.unsplash.com/photo-1774552803574-05c6fd3108c4?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "VQKfMdJ2JMo"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a plant she can't kill",
+   "detail": "a pothos in a nice pot. handles low light, water every week or two.",
+   "photo": "https://images.unsplash.com/photo-1596724878582-76f1a8fdc24f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "IZz3sboy1g8"
+  },
+  {
+   "kind": "end",
+   "text": "send this to your siblings, then save it",
+   "sub": "i keep my gift list in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1617118601021-4992c028fe5d?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "EtVAsOcadU4"
+  }
+ ]
+}
