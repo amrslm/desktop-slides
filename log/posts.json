@@ -214,5 +214,41 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-7901698260703359930",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-10",
+  "time": "08:30",
+  "folder": "media/2026-11-10/01-dinners",
+  "series": "dinners",
+  "angle": "cheap dinners that don't feel cheap",
+  "title": "cheap dinners that don't feel cheap",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=8151751218336844492",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-10",
+  "time": "13:00",
+  "folder": "media/2026-11-10/02-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for mom",
+  "title": "gifts for mom that aren't another candle",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-4832308371510637498",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-10",
+  "time": "19:00",
+  "folder": "media/2026-11-10/03-date-ideas",
+  "series": "date-ideas",
+  "angle": "date ideas that aren't dinner and a movie",
+  "title": "date ideas that aren't dinner and a movie",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=793469324777377693",
+  "status": "scheduled"
  }
 ]
