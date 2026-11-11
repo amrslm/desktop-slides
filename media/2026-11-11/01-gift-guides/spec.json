@@ -1,0 +1,62 @@
+{
+ "series": "gift-guides",
+ "angle": "host gifts to bring to a holiday party",
+ "title": "host gifts that aren't just wine (under $25)",
+ "caption": "the spiced nuts disappear first every time. save this for later #giftideas #hostessgift #holidayparty #giftguide",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "holiday party season",
+   "text": "host gifts that aren't just wine (under $25)",
+   "photo": "https://images.unsplash.com/photo-1608306680548-b2d8c14b37af?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "gKGGCgIq-DA"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "a really good olive oil",
+   "detail": "a pretty bottle they'd never buy for themselves. they'll use every drop.",
+   "photo": "https://images.unsplash.com/photo-1552592074-ea7a91b851b3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "iCgfwfqgdzo"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "fancy hot cocoa kit",
+   "detail": "a tin of rich cocoa mix plus a bag of big marshmallows. under $15.",
+   "photo": "https://images.unsplash.com/photo-1607196707151-2db8b71294ba?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "AHIS5FUW0gk"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a potted herb",
+   "detail": "thyme or rosemary in a small pot. looks festive and they can cook with it.",
+   "photo": "https://images.unsplash.com/photo-1769424052062-4147fa752156?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "V_s0pmUw7VE"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "homemade spiced pecans",
+   "detail": "pecans, maple, cinnamon, salt, baked 15 minutes. tie the jar with twine.",
+   "photo": "https://images.unsplash.com/photo-1732987065277-4aa9b010b469?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "DmM9hzTc_GQ"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a pair of linen tea towels",
+   "detail": "hosts always run out of clean towels by the end of the night.",
+   "photo": "https://images.unsplash.com/photo-1585822027273-fdd2e2cef2a8?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "64v-xUpE7Is"
+  },
+  {
+   "kind": "end",
+   "text": "save this before your next party invite",
+   "sub": "i keep my gift list in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1608306680606-871907587b27?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "TgdGlcJX75A"
+  }
+ ]
+}

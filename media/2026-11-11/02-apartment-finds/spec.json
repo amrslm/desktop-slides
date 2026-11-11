@@ -1,0 +1,62 @@
+{
+ "series": "apartment-finds",
+ "angle": "kitchen things you'll use every day",
+ "title": "kitchen things you'll use every single day",
+ "caption": "the kettle gets used more than the stove at my place. save this for later #kitchenessentials #apartmentdecor #firstapartment #kitchenfinds",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "worth the counter space",
+   "text": "kitchen things you'll use every single day",
+   "photo": "https://images.unsplash.com/photo-1556912173-46c336c7fd55?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "zzMb7jacyBc"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "one good chef's knife",
+   "detail": "a sharp 8-inch knife beats a whole block of dull ones.",
+   "photo": "https://images.unsplash.com/photo-1614362705324-8da11fd16754?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "aAiy88ytl0c"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a big wooden cutting board",
+   "detail": "room to chop everything at once, and it's easy on your knife edge.",
+   "photo": "https://images.unsplash.com/photo-1626037642385-b18452f27454?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "e300vqunXzY"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a cast iron skillet",
+   "detail": "sears, bakes and lasts forever. it gets better the more you use it.",
+   "photo": "https://images.unsplash.com/photo-1579805625996-db7b60587362?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "FUsq49lD1xY"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "an electric kettle",
+   "detail": "hot water in a few minutes for tea, coffee, oats or instant noodles.",
+   "photo": "https://images.unsplash.com/photo-1758798156445-dba395210090?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "CYp-Uo4P-RU"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "glass storage containers",
+   "detail": "leftovers go straight from fridge to microwave. no stained plastic.",
+   "photo": "https://images.unsplash.com/photo-1681146375902-e26675413dad?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "BAgLYdH5nI0"
+  },
+  {
+   "kind": "end",
+   "text": "save this for your next kitchen upgrade",
+   "sub": "i keep my apartment wishlist in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "xC3cHbp4XJE"
+  }
+ ]
+}
