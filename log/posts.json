@@ -250,5 +250,41 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=793469324777377693",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-11",
+  "time": "08:30",
+  "folder": "media/2026-11-11/01-gift-guides",
+  "series": "gift-guides",
+  "angle": "host gifts to bring to a holiday party",
+  "title": "host gifts that aren't just wine (under $25)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=3755606109094757886",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-11",
+  "time": "13:00",
+  "folder": "media/2026-11-11/02-apartment-finds",
+  "series": "apartment-finds",
+  "angle": "kitchen things you'll use every day",
+  "title": "kitchen things you'll use every single day",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-6940414403543547783",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-11",
+  "time": "19:00",
+  "folder": "media/2026-11-11/03-dinners",
+  "series": "dinners",
+  "angle": "30-minute dinners",
+  "title": "30-minute dinners you'll make on repeat",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=5052694081507771307",
+  "status": "scheduled"
  }
 ]
