@@ -286,5 +286,41 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=5052694081507771307",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-12",
+  "time": "08:30",
+  "folder": "media/2026-11-12/01-dinners",
+  "series": "dinners",
+  "angle": "lunches to meal prep on sunday",
+  "title": "5 meal prep lunches that don't get soggy",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=8841533276964408919",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-12",
+  "time": "13:00",
+  "folder": "media/2026-11-12/02-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for your best friend under $30",
+  "title": "gifts for your best friend (under $30)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=7153552773499471836",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-12",
+  "time": "19:00",
+  "folder": "media/2026-11-12/03-date-ideas",
+  "series": "date-ideas",
+  "angle": "rainy day dates",
+  "title": "rainy day dates that aren't just netflix",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-4755240758251076244",
+  "status": "scheduled"
  }
 ]
