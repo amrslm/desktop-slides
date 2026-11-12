@@ -1,0 +1,62 @@
+{
+ "series": "dinners",
+ "angle": "lunches to meal prep on sunday",
+ "title": "5 meal prep lunches that don't get soggy",
+ "caption": "the egg roll bowl reheats better than it has any right to. save this for later #mealprep #mealprepideas #easyrecipes #lunchideas",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "sunday meal prep",
+   "text": "5 meal prep lunches that don't get soggy",
+   "photo": "https://images.unsplash.com/photo-1667499745120-f9bcef8f584e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "YB9VU4necQo"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "chicken shawarma rice bowls",
+   "detail": "rice, spiced chicken, chickpeas, cucumber. garlic yogurt sauce on the side.",
+   "photo": "https://images.unsplash.com/photo-1771074168439-0083aaac48e7?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "g7WrssBb1Ak"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "lemony chickpea salad",
+   "detail": "chickpeas, tomato, red onion, herbs, lemon, olive oil. no lettuce to wilt.",
+   "photo": "https://images.unsplash.com/photo-1789990664839-8dbbb04521fc?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "DHiil-gDSLA"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "cold peanut noodles",
+   "detail": "soba, shredded carrots, edamame. keep the peanut sauce in a little jar.",
+   "photo": "https://images.unsplash.com/photo-1610554666975-339e1f736bc8?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "gMHYBkmhI-g"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "sheet pan squash and sausage",
+   "detail": "cubed squash, red onion, sliced sausage, rosemary. 425°f for 30 minutes.",
+   "photo": "https://images.unsplash.com/photo-1757451628319-60463e4fede3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "HS6fmVJjWX0"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "egg roll in a bowl",
+   "detail": "ground pork, coleslaw mix, soy, ginger, garlic. one pan, 15 minutes.",
+   "photo": "https://images.unsplash.com/photo-1588574922724-f71a50df64de?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "FJM9AK_Oibk"
+  },
+  {
+   "kind": "end",
+   "text": "save this for sunday",
+   "sub": "i keep every recipe i save in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1790866443571-10d2f9d0f835?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "qUcXRBthiLg"
+  }
+ ]
+}

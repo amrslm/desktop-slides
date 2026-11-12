@@ -1,0 +1,62 @@
+{
+ "series": "date-ideas",
+ "angle": "rainy day dates",
+ "title": "rainy day dates that aren't just netflix",
+ "caption": "the pasta one turns a gray afternoon into the best date of the month. save this for later #datenight #dateideas #rainyday #couplegoals",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "for the next storm",
+   "text": "rainy day dates that aren't just netflix",
+   "photo": "https://images.unsplash.com/photo-1509635022432-0220ac12960b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "HCDugQDdtfc"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "bookstore swap",
+   "detail": "pick a book for each other under $15, read chapter one over coffee.",
+   "photo": "https://images.unsplash.com/photo-1677462679593-97b817fb118a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "NRRv0J0881Y"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a slow museum afternoon",
+   "detail": "pick one wing, each choose a favorite piece, defend it over lunch.",
+   "photo": "https://images.unsplash.com/photo-1761563071832-e548e022a706?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "yaSXnSV9fF0"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "make pasta from scratch",
+   "detail": "flour, eggs and a rolling pin. about an hour start to finish.",
+   "photo": "https://images.unsplash.com/photo-1606854428857-5121b55a2661?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "GHdWRQwrDNY"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "a board game café",
+   "detail": "small table fee, hundreds of games. pick one neither of you has played.",
+   "photo": "https://images.unsplash.com/photo-1547638375-ebf04735d792?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "laNNTAth9vs"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "puzzle and soup night",
+   "detail": "a 500-piece puzzle, a pot of soup, rain on the window. no screens.",
+   "photo": "https://images.unsplash.com/photo-1763833294658-188ce0766732?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "2uENu6P4BDg"
+  },
+  {
+   "kind": "end",
+   "text": "save this for the next rainy weekend",
+   "sub": "i keep date ideas in Desktop: Save for Later so we actually do them",
+   "photo": "https://images.unsplash.com/photo-1632900182533-c8ee9ba229f4?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "uWNxBHCCQs4"
+  }
+ ]
+}
