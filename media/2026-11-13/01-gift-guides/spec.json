@@ -1,0 +1,62 @@
+{
+ "series": "gift-guides",
+ "angle": "gifts for coworkers under $25",
+ "title": "coworker gifts that aren't a mug (under $25)",
+ "caption": "the hot cocoa one wins every office swap. save this for later #giftideas #secretsanta #coworkergifts #holidaygifts",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "all under $25",
+   "text": "coworker gifts that aren't a mug",
+   "photo": "https://images.unsplash.com/photo-1513127596064-0e4b27fedce8?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "YUmlqPr6zfs"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "a good hand cream",
+   "detail": "a travel-size tube for their desk drawer. dry office air is real. $10–20.",
+   "photo": "https://images.unsplash.com/photo-1616740794225-63e524d43ec7?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Ne4ndPUwe08"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a small desk plant",
+   "detail": "a little succulent in a ceramic pot. water it once every few weeks. ~$15.",
+   "photo": "https://images.unsplash.com/photo-1595351475754-8a520e0bc3a3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "_q4z66mLDRc"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "fancy hot cocoa",
+   "detail": "a tin of good drinking chocolate for 3pm slumps. usually $10–20.",
+   "photo": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "MjZq7A2RJxQ"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "a nice notebook and pen",
+   "detail": "hardcover, dotted pages, one pen that writes smooth. about $15–20.",
+   "photo": "https://images.unsplash.com/photo-1642543492366-a92039433543?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "ChsnZBAX6wA"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a bag of local coffee",
+   "detail": "whole beans or ground from a local roaster. most bags run $14–20.",
+   "photo": "https://images.unsplash.com/photo-1562051036-e0eea191d42f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "7QlJ79Cj43w"
+  },
+  {
+   "kind": "end",
+   "text": "save this before the office gift swap",
+   "sub": "i keep my gift list in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1766864498722-c9499760c901?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "rCNn08PrHk8"
+  }
+ ]
+}

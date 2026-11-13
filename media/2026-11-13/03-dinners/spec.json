@@ -1,0 +1,62 @@
+{
+ "series": "dinners",
+ "angle": "one-pot pasta dinners",
+ "title": "one-pot pastas for cold weeknights",
+ "caption": "the mushroom orzo is the one you'll make twice this week. save this for later #dinnerideas #easyrecipes #onepotmeals #pastarecipes",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "one pot, 30 minutes",
+   "text": "one-pot pastas for cold weeknights",
+   "photo": "https://images.unsplash.com/photo-1781802768049-c14dd5b37bf3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "WpqGmuCovwg"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "creamy mushroom orzo",
+   "detail": "orzo, mushrooms, garlic and broth, then lots of parmesan. 25 minutes.",
+   "photo": "https://images.unsplash.com/photo-1572424075298-e17403e6f3bf?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "gg_PV3EvCaM"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "one-pot mac and cheese",
+   "detail": "pasta cooked right in milk, then sharp cheddar stirred in. 20 minutes.",
+   "photo": "https://images.unsplash.com/photo-1667499989723-c4ab9549d63c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Vkx_ZpQwQgE"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "pasta e fagioli",
+   "detail": "small pasta, cannellini beans, tomatoes and rosemary in broth. 30 minutes.",
+   "photo": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "90Z4qIxWc8Y"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "sausage and broccoli pasta",
+   "detail": "brown italian sausage, add pasta, broth and broccoli. parmesan. 25 minutes.",
+   "photo": "https://images.unsplash.com/photo-1607118750694-1469a22ef45d?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "gRtIRzDNZQI"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "spicy tomato shrimp pasta",
+   "detail": "linguine cooked in tomato broth with shrimp, garlic, chili flakes. 20 min.",
+   "photo": "https://images.unsplash.com/photo-1635475556713-8d3ff880d9ba?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "nCHzHaJandM"
+  },
+  {
+   "kind": "end",
+   "text": "save this for the next cold weeknight",
+   "sub": "i keep every recipe i save in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1761766917170-42c4cecfee0b?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "h_y0ZRpnlIc"
+  }
+ ]
+}
