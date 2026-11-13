@@ -322,5 +322,41 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-4755240758251076244",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-13",
+  "time": "08:30",
+  "folder": "media/2026-11-13/01-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for coworkers under $25",
+  "title": "coworker gifts that aren't a mug (under $25)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-8050849286563803950",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-13",
+  "time": "13:00",
+  "folder": "media/2026-11-13/02-date-ideas",
+  "series": "date-ideas",
+  "angle": "first date ideas that aren't awkward",
+  "title": "first date ideas that aren't awkward",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-2793040621968798132",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-13",
+  "time": "19:00",
+  "folder": "media/2026-11-13/03-dinners",
+  "series": "dinners",
+  "angle": "one-pot pasta dinners",
+  "title": "one-pot pastas for cold weeknights",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-5737087361117960577",
+  "status": "scheduled"
  }
 ]
