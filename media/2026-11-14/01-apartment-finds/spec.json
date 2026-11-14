@@ -1,0 +1,62 @@
+{
+ "series": "apartment-finds",
+ "angle": "bathroom upgrades under $30",
+ "title": "small bathroom upgrades (all under $30)",
+ "caption": "the eucalyptus one costs like $10 and it's the best part. save this for later #bathroomdecor #apartmentdecor #renterfriendly #homeupgrades",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "renter-friendly",
+   "text": "small bathroom upgrades (all under $30)",
+   "photo": "https://images.unsplash.com/photo-1610178169668-530baa052915?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "O0mWkPghw6E"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "plush matching towels",
+   "detail": "two or three in one color. instantly looks like a hotel. sets run $20\u201330.",
+   "photo": "https://images.unsplash.com/photo-1616663717839-2fea42e1a1f6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "4dUC7Fine5g"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "glass soap pumps",
+   "detail": "decant hand soap and lotion into matching pumps. way less sink clutter.",
+   "photo": "https://images.unsplash.com/photo-1656214286228-08fdbf520d1e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "TsAVkVRlzGs"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a handheld shower head",
+   "detail": "screws onto your existing arm in minutes. keep the old one for move-out.",
+   "photo": "https://images.unsplash.com/photo-1771681587476-f2846a2c9102?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "e4GP7d-uyag"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "a eucalyptus bundle",
+   "detail": "hang fresh eucalyptus near the shower. the steam makes it smell like a spa.",
+   "photo": "https://images.unsplash.com/photo-1757528649062-787b727bd3fc?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "7TRod45mdiA"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a plant that loves steam",
+   "detail": "pothos or a fern by the window. they like the humidity, so they're easy.",
+   "photo": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "U7PitHRnTNU"
+  },
+  {
+   "kind": "end",
+   "text": "save this for your next home store run",
+   "sub": "i keep my apartment wishlist in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1598698628558-986f2a58d892?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "29IpcQdFwI4"
+  }
+ ]
+}

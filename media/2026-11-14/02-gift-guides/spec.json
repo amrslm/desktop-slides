@@ -1,0 +1,62 @@
+{
+ "series": "gift-guides",
+ "angle": "gifts under $20 that don't look cheap",
+ "title": "gifts under $20 that don't look cheap",
+ "caption": "the puzzle one never misses. save this for later #giftideas #giftguide #christmasgifts #budgetgifts",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "gift guide",
+   "text": "gifts under $20 that don't look cheap",
+   "photo": "https://images.unsplash.com/photo-1764764138818-0b22ab4d4023?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "l6A1CggyaS4"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "a fancy chocolate sampler",
+   "detail": "three or four craft bars in different flavors. feels special, about $15.",
+   "photo": "https://images.unsplash.com/photo-1522249341405-3871994ac062?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "jxRbFiXaj6w"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "a good notebook and pen",
+   "detail": "hardcover, lay-flat pages, plus a smooth gel pen. for lists and plans.",
+   "photo": "https://images.unsplash.com/photo-1620287920810-3f5b9746380c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "2_BrZ3AJ_78"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "a 1,000-piece puzzle",
+   "detail": "pick one with a pretty print. a whole cozy sunday in a box.",
+   "photo": "https://images.unsplash.com/photo-1590146758445-40be7019507d?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "Ui0NB808A1k"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "a bath night kit",
+   "detail": "bath salts, a small candle and a face mask in one little basket.",
+   "photo": "https://images.unsplash.com/photo-1769028715040-16cb345ced84?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "rI0-hNQTN4M"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "a plant in a nice pot",
+   "detail": "pothos or snake plant. hard to kill and lasts way longer than flowers.",
+   "photo": "https://images.unsplash.com/photo-1601204671022-63cfdf51b2e0?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "_UaBPVdh5es"
+  },
+  {
+   "kind": "end",
+   "text": "save this before the holidays sneak up",
+   "sub": "i keep my gift list in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1573853019548-c38efdbc2f09?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "XySgvSFnskk"
+  }
+ ]
+}
