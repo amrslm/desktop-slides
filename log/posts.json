@@ -394,5 +394,44 @@
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=2918781142677340980",
   "status": "scheduled"
+ },
+ {
+  "date": "2026-11-16",
+  "time": "08:30",
+  "folder": "media/2026-11-11/01-gift-guides",
+  "series": "gift-guides",
+  "angle": "host gifts to bring to a holiday party",
+  "title": "host gifts that aren't just wine (under $25)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-3624981790302976799",
+  "status": "requeued",
+  "requeuedFrom": "2026-11-11 08:30"
+ },
+ {
+  "date": "2026-11-16",
+  "time": "13:00",
+  "folder": "media/2026-11-11/03-dinners",
+  "series": "dinners",
+  "angle": "30-minute dinners",
+  "title": "30-minute dinners you'll make on repeat",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=2766664216178870379",
+  "status": "requeued",
+  "requeuedFrom": "2026-11-11 19:00"
+ },
+ {
+  "date": "2026-11-16",
+  "time": "19:00",
+  "folder": "media/2026-11-10/03-date-ideas",
+  "series": "date-ideas",
+  "angle": "date ideas that aren't dinner and a movie",
+  "title": "date ideas that aren't dinner and a movie",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=4950040436501007483",
+  "status": "requeued",
+  "requeuedFrom": "2026-11-10 19:00"
  }
 ]
