@@ -433,5 +433,41 @@
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=4950040436501007483",
   "status": "failed: Metricool account limit",
   "requeuedFrom": "2026-11-10 19:00"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "08:30",
+  "folder": "media/2026-11-21/01-gift-guides",
+  "series": "gift-guides",
+  "angle": "gifts for the person who's always cold",
+  "title": "gifts for the person who's always cold",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-1394312918851107416",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "13:00",
+  "folder": "media/2026-11-21/02-dinners",
+  "series": "dinners",
+  "angle": "cozy soups for cold nights",
+  "title": "5 cozy soups for cold nights",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=3072733159829556393",
+  "status": "scheduled"
+ },
+ {
+  "date": "2026-11-21",
+  "time": "19:00",
+  "folder": "media/2026-11-21/03-date-ideas",
+  "series": "date-ideas",
+  "angle": "fall and winter date ideas",
+  "title": "cozy winter date ideas (under $30)",
+  "slides": 7,
+  "privacy": "PUBLIC_TO_EVERYONE",
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-1234557428228734323",
+  "status": "scheduled"
  }
 ]
