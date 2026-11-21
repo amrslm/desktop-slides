@@ -13,7 +13,14 @@ Constants:
 3. Run `cd design && npm install --no-audit --no-fund`. Playwright is already installed globally; never install it.
 4. Set today: `TODAY=$(TZ=America/Los_Angeles date +%F)`. Get the UTC offset for any time with `TZ=America/Los_Angeles date -d "$TODAY 12:00" +%:z`.
 
-## 2. Plan
+## 2. Check earlier posts
+
+Scheduling can work and the post can still fail later, at publish time. That happened Nov 10–17: Metricool's free plan caps publishing at 20 posts a month.
+
+1. Call `getScheduledPosts` from 3 days ago through now. For every post with TikTok `status` `ERROR`, find its log entry (by `plannerUrl` uuid). Set its `status` to `failed: <detailedStatus>` if it isn't already.
+2. If any post that is new since the last run failed with "account limit", stop. Don't build or schedule anything. Send a PushNotification saying publishing is blocked by the Metricool plan limit, record the log change, and finish.
+
+## 3. Plan
 
 1. Read `plan/schedule.json`. The last `ramp` entry whose `from` ≤ today gives N, the number of posts. The times are `times_by_count[N]`. Drop any time less than 45 minutes from now.
 2. Call `getScheduledPosts` for today. If posts are already scheduled for today (a re-run), only make the missing ones.
@@ -23,14 +30,14 @@ Constants:
    - For each post, choose an angle from that series not used in the last 14 days, per the log.
    - Variations on an angle are fine, e.g. "gifts for her under $30" or "one-pan dinners with chicken".
 
-## 3. Write and find photos
+## 4. Write and find photos
 
 For each post:
 1. Make a folder `media/$TODAY/NN-<series>` (NN = 01, 02…).
 2. Write `spec.json` there, following `writer/rulebook.md` exactly, including `series`, `angle`, `title` and `caption`.
 3. Find photos following `photos/rules.md`. Call `download_asset` for every photo you use, and put the returned URL in `photo`.
 
-## 4. Build and check
+## 5. Build and check
 
 1. Build each post: `node runner/build.mjs media/$TODAY/NN-<series>`. It prints the public links.
 2. Make a contact sheet: `python3 runner/sheet.py /tmp/sheet.jpg media/$TODAY/*/`. Then look at it with Read.
@@ -41,12 +48,12 @@ For each post:
    - text is hard to read.
    You get at most 2 rebuilds per post.
 
-## 5. Publish the files
+## 6. Publish the files
 
 1. Run `git add media && git commit -m "posts for $TODAY" && git push`. A "push negotiation failed; proceeding anyway" warning is harmless; check with `git ls-remote origin` that `main` moved.
 2. Check every link returns 200: `curl -s -o /dev/null -w "%{http_code}" <url>`. If you get 404s, wait 30 seconds and retry. Stop after 3 tries.
 
-## 6. Schedule
+## 7. Schedule
 
 For each post, call `createScheduledPost`:
 - `blogId` "7809446".
@@ -79,13 +86,13 @@ For each post, call `createScheduledPost`:
 
 If a call fails, read the error, fix the input and retry once. If it still fails, skip that post and note it.
 
-## 7. Record
+## 8. Record
 
 1. Append one entry per post to `log/posts.json`: `{date, time, folder, series, angle, title, slides, privacy, plannerUrl, status}`.
 2. Append each photo used to `photos/used.json`: `{id, date}`.
 3. Delete `media/` folders older than 7 days (`git rm -r`). Metricool copies the images when a post is scheduled, so the repo copies are only needed until then.
 4. Run `git add -A && git commit -m "log $TODAY" && git push`.
 
-## 8. Summary
+## 9. Summary
 
 End with 3–6 lines: what was scheduled (time, series, hook) and anything that went wrong. Nothing else.
