@@ -1,0 +1,62 @@
+{
+ "series": "dinners",
+ "angle": "cozy soups for cold nights",
+ "title": "5 cozy soups for cold nights",
+ "caption": "the tomato one with grilled cheese is a whole mood. save this for later #souprecipes #dinnerideas #easyrecipes #comfortfood",
+ "slides": [
+  {
+   "kind": "cover",
+   "kicker": "under an hour",
+   "text": "5 cozy soups for cold nights",
+   "photo": "https://images.unsplash.com/photo-1635685731411-7167fe560c79?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "x66KlhvAad0"
+  },
+  {
+   "kind": "item",
+   "n": 1,
+   "title": "chicken tortilla soup",
+   "detail": "chicken, black beans, corn, salsa, broth. top with chips and lime. 35 min.",
+   "photo": "https://images.unsplash.com/photo-1695088220737-9a6d901db8f1?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "DXKbOIWGZSA"
+  },
+  {
+   "kind": "item",
+   "n": 2,
+   "title": "creamy tomato soup",
+   "detail": "canned tomatoes, garlic, butter, a splash of cream. 30 min. grilled cheese.",
+   "photo": "https://images.unsplash.com/photo-1581347860118-588a42326161?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "xBaa9lSMvP0"
+  },
+  {
+   "kind": "item",
+   "n": 3,
+   "title": "lemony chicken noodle",
+   "detail": "rotisserie chicken, egg noodles, carrots, celery, dill, lemon. 30 min.",
+   "photo": "https://images.unsplash.com/photo-1612966948332-81d747414a8f?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "-m0du_taY4g"
+  },
+  {
+   "kind": "item",
+   "n": 4,
+   "title": "potato leek soup",
+   "detail": "leeks, potatoes, broth, a splash of cream. blend half of it. 45 min.",
+   "photo": "https://images.unsplash.com/photo-1620256114757-322387444c16?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "kR_rjgmItQk"
+  },
+  {
+   "kind": "item",
+   "n": 5,
+   "title": "garlicky bean and greens soup",
+   "detail": "white beans, kale, lots of garlic, a parmesan rind. crusty bread. 40 min.",
+   "photo": "https://images.unsplash.com/photo-1534596382981-1974b10d4e1a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "vWNqcoSW4Tc"
+  },
+  {
+   "kind": "end",
+   "text": "save this before it gets any colder",
+   "sub": "i keep every recipe i save in Desktop: Save for Later",
+   "photo": "https://images.unsplash.com/photo-1706868366626-74d7570448c6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb",
+   "unsplash_id": "lULShSMhu7o"
+  }
+ ]
+}
