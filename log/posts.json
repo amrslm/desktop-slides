@@ -444,7 +444,7 @@
   "slides": 7,
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-1394312918851107416",
-  "status": "scheduled"
+  "status": "failed: Metricool account limit"
  },
  {
   "date": "2026-11-21",
@@ -456,7 +456,7 @@
   "slides": 7,
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=3072733159829556393",
-  "status": "scheduled"
+  "status": "failed: Metricool account limit"
  },
  {
   "date": "2026-11-21",
@@ -468,6 +468,6 @@
   "slides": 7,
   "privacy": "PUBLIC_TO_EVERYONE",
   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7809446&openWithPostUuid=-1234557428228734323",
-  "status": "scheduled"
+  "status": "failed: Metricool account limit"
  }
 ]

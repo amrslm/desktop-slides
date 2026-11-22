@@ -3,7 +3,7 @@
   "series": [
     {
       "id": "dinners",
-      "weight": 3,
+      "weight": 4,
       "save_line": "i keep every recipe i save in Desktop: Save for Later",
       "angles": [
         "dinners that taste like takeout",
@@ -13,12 +13,13 @@
         "high-protein dinners",
         "cozy soups for cold nights",
         "lunches to meal prep on sunday",
-        "dinners for when you're too tired to cook"
+        "dinners for when you're too tired to cook",
+        "comfort food dinners for cold nights"
       ]
     },
     {
       "id": "date-ideas",
-      "weight": 3,
+      "weight": 4,
       "save_line": "i keep date ideas in Desktop: Save for Later so we actually do them",
       "angles": [
         "date ideas that aren't dinner and a movie",
@@ -27,12 +28,13 @@
         "rainy day dates",
         "fall and winter date ideas",
         "first date ideas that aren't awkward",
-        "anniversary ideas that feel personal"
+        "anniversary ideas that feel personal",
+        "cozy at-home date nights for winter"
       ]
     },
     {
       "id": "gift-guides",
-      "weight": 4,
+      "weight": 3,
       "save_line": "i keep my gift list in Desktop: Save for Later",
       "angles": [
         "gifts for him that aren't socks",
@@ -49,7 +51,7 @@
     },
     {
       "id": "apartment-finds",
-      "weight": 2,
+      "weight": 1,
       "save_line": "i keep my apartment wishlist in Desktop: Save for Later",
       "angles": [
         "renter-friendly upgrades",
